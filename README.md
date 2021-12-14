@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Malware Analysis
+- 🔭 I’m currently working on ... Cyber Advent 2021
 - 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ... Cloud Platform
-- 🤔 I’m looking for help with ... IoT Project
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... orahim2@hotmail.com
-- ⚡ Fun fact: ...I like to ride bicycle.
+- 👯 I’m looking to collaborate on ... Arduino and Raspberry projects
+- 🤔 I’m looking for help with ... Arduino – Raspberry Pi Web Fan Control with MySQL
+- 💬 Ask me about ... Cyber Security 
+- 📫 How to reach me: ... rahimz11@yahoo.com
+- ⚡ Fun fact: ...I am road bike enthusiast
 -->
