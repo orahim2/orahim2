@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... JAVA Full Stack and Python Courses
+- 🔭 I’m currently working on ... OSSU CS Degree
 - 🌱 I’m currently learning ...JAVA and Python
 - 👯 I’m looking to collaborate on ... Arduino and Raspberry projects
 - 🤔 I’m looking for help with ... Arduino – Raspberry Pi Web Application Fan Control with MySQL
